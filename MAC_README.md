@@ -5,9 +5,7 @@
 - https://ko.softonic.com/download/mediainfo-mac/mac/post-download
 - 위 프로그램을 설치 합니다.
 - 설치한 mediaInfo 프로그램으로 대상 동영상을 열어 아래와 같이 캡쳐해서 보내주시면 됩니다.
-
-![mac-os](https://user-images.githubusercontent.com/46895707/51479561-f0648280-1dd1-11e9-954d-6b7204eadb1f.png)
-
+<img src="https://user-images.githubusercontent.com/46895707/51479561-f0648280-1dd1-11e9-954d-6b7204eadb1f.png" width="600">
 
 ### OS, CPU, memory 확인하기
 
