@@ -19,7 +19,9 @@
 1. 윈도우에 기본으로 설치되어 있는 '실행'프로그램을 실행해 주세요.
 2. msinfo32 를 입력해주세요.
 3. **시스템 요약 정보 창**을 **캡쳐**해서 보내주시면 됩니다.
-![window-os](https://user-images.githubusercontent.com/46895707/51479290-2ce3ae80-1dd1-11e9-9206-f9a79507c637.jpg)
+
+<img src="https://user-images.githubusercontent.com/46895707/51479290-2ce3ae80-1dd1-11e9-9206-f9a79507c637.jpg" width="800">
+
 <br>
 <br>
 <br>
@@ -40,6 +42,7 @@
 ### OS, CPU, memory 확인하기
 
 - 맥 osx 좌측 상단의 사과 아이콘을 클릭하여 '이 MAC에 관하여'버튼을 눌러주세요.
-![mac-about](https://user-images.githubusercontent.com/46895707/51479548-e6db1a80-1dd1-11e9-90f0-ea9079b5a9a1.png)
+<img src="https://user-images.githubusercontent.com/46895707/51479548-e6db1a80-1dd1-11e9-90f0-ea9079b5a9a1.png" width="200">
+
 - 아래와 같이'개요'부분을 캡쳐해서 보내주시면 됩니다.
 ![general](https://user-images.githubusercontent.com/46895707/51479553-e93d7480-1dd1-11e9-82aa-eef541a985f0.png)
